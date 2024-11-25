@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @singhharry278990  
+- 👀 I’m interested in web development, machine learning, and open-source contributions.  
+- 🌱 I’m currently learning advanced Django techniques and integrating AI models into web applications.  
+- 💞️ I’m looking to collaborate on projects related to Python, Django, or geographic information systems (GIS).  
+- 📫 How to reach me: singhhary2@gmail.com
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can debug faster than I can find my misplaced coffee mug! ☕  
